@@ -7,6 +7,10 @@ android {
     namespace = "com.example.navigationdrawer"
     compileSdk = 36
 
+    buildFeatures{
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.example.navigationdrawer"
         minSdk = 24

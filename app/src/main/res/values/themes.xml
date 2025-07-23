@@ -6,4 +6,10 @@
     </style>
 
     <style name="Theme.NavigationDrawer" parent="Base.Theme.NavigationDrawer" />
+
+    <!--    <style name="Theme.NavigationDrawerFragments.MyThemeNoActionBar">-->
+    <style name="Theme.NavigationDrawer.MyThemeNoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
 </resources>

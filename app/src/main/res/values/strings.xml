@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Navigation Drawer</string>
+    <string name="text_menu_message">Message</string>
+    <string name="text_menu_chat">Chat</string>
+    <string name="text_menu_profile">Profile</string>
+    <string name="text_menu_send">send</string>
+    <string name="text_menu_communicate">Communicate</string>
+    <string name="text_menu_share">share</string>
+    <string name="name">Frank</string>
+    <string name="mail">frankmilvus@gmail.com</string>
+    <string name="open_navigation_drawer">Open navigation drawer</string>
+    <string name="close_navigation_drawer">Close navigation drawer</string>
 </resources>
